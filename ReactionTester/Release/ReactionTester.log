@@ -1,0 +1,9 @@
+﻿  ReactionTester.cpp
+d:\sfml\include\sfml\window\windowhandle.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\jwhong\source\repos\reactiontester\reactiontester\reactiontester.cpp(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 124 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ReactionTester.vcxproj -> C:\Users\jwhong\source\repos\ReactionTester\Release\ReactionTester.exe
